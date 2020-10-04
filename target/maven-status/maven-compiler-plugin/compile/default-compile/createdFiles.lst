@@ -1,0 +1,8 @@
+bigdata\JsonParserTest.class
+com\parallel\scrapping\WorkerThread.class
+webscrapper\ScrapingThreadPool.class
+bigdata\ConsumerReview.class
+webscrapper\WebScrapperMainApp.class
+webscrapper\AmazonWebScrapper.class
+webscrapper\HTMLExtractor.class
+bigdata\JsonOutputView.class
